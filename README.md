@@ -3,7 +3,7 @@
 This is a binary relations library written in Go.
 
 With this library you will be able to create grahps, populate them an calculate
-closures on them using different well known algorithms.
+closures on them using different well-known algorithms.
 
 # Motivation
 
